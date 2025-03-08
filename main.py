@@ -1,0 +1,1 @@
+print("Mona lisa is gay")
